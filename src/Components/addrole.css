@@ -1,0 +1,77 @@
+#outer{
+    background-color: rgb(243, 239, 239);
+}
+.container-fluid{
+    background-color: white;
+    box-shadow: 20px 20px 30px  rgba(94, 114, 228, 0.219) inset;
+}
+.one{
+    display: flex; 
+}
+.search{
+    border-radius: 26px;
+    border-style: none;
+    /* border: 2px solid black; */
+}
+/* .d-flex{
+    border-radius: 24px;
+    position: relative;
+} */
+.btn1{
+    /* border: 2px solid black; */
+    border-radius: 22px;
+    position: relative;
+    right: 42px;
+    border-style: none;
+}
+.right{
+    position: absolute;
+    right: 20px;
+    margin-top: 25px;
+}
+.left{
+    margin-top: 15px;
+}
+.two{
+    padding: 10px;
+}
+hr{
+    border: 2px solid red;
+    margin-bottom: 45px;
+}
+#three{
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.form{
+    display: flex;
+}
+#three-one{
+    width: 480px;
+    position: absolute;
+    right: 240px;
+}
+#form-group{
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 80px;
+}
+#comment{
+    width: 480px;
+    position: absolute;
+    right: 240px;
+}
+#four1{
+    position: relative;
+    bottom: 0;
+}
+#buttons{
+    position: absolute;
+    bottom: 38px;
+    left: 20px;
+}
+.btn{
+    margin-right: 10px;
+}
+

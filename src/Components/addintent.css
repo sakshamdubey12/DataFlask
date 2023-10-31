@@ -1,0 +1,57 @@
+#outer{
+    background-color: rgb(243, 239, 239);
+}
+.one{
+    display: flex; 
+}
+#cont2{
+    height: 36vh;
+    box-shadow: 20px 20px 30px rgb(230, 192, 173) inset;
+}
+.search{
+    border-radius: 26px;
+    border-style: none;
+}
+/* .d-flex{
+    border-radius: 24px;
+    position: relative;
+} */
+.btn1{
+    border-radius: 22px;
+    position: relative;
+    right: 42px;
+    border-style: none;
+}
+.right{
+    position: absolute;
+    right: 20px;
+    margin-top: 25px;
+}
+.left{
+    margin-top: 15px;
+}
+.form{
+    display: flex;
+    flex-direction:row;
+}
+.form-control{
+    margin-right:15px;
+}
+#four{
+    position: relative;
+    bottom: 170px;
+}
+.buttons{
+    position: absolute;
+    top: -20px;
+    left: 45px;
+}
+.btn{
+    margin-right: 10px;
+}
+#three1{
+    width: 154vh;
+    position: absolute;
+    top: 254px;
+    left: 310px;
+}

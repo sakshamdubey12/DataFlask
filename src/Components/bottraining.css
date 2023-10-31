@@ -1,0 +1,53 @@
+#outer{
+    background-color: rgb(243, 239, 239);
+}
+#cont{
+    position: relative;
+    height: 60vh;
+    box-shadow: 20px 20px 30px rgb(230, 192, 173) inset;
+}
+.three2{
+    padding-left: 30px;
+    padding-right: 30px;
+    position: absolute;
+    /* bottom: 10px; */
+    top: 100px;
+    /* padding-bottom: 10px;
+}
+.input-group{
+    padding-bottom: 10px;
+    /* padding: 10px; */
+}
+.form-control{
+    margin-right: 0;
+    /* margin-left: 12px; */
+}
+.btn2{
+    height: 36px;
+}
+#one{
+    margin-left: 12px;
+    padding-right: 21px;
+    margin-bottom: 18px;
+}
+.col{
+    margin-bottom: 18px;
+}
+.four{
+    position: absolute;
+    bottom: 105px;
+    left: 55px;
+    width: 150vh;
+}
+#int{
+    width: 100%;
+}
+.five{
+    position: relative;
+
+}
+.buttons{
+    position: absolute;
+    top: 237px;
+    left: 45px;
+}
